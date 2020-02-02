@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Intro to Web Development
-image: /img/images.png
+image: /img/Untitled-w4.png
 heading: 'The Basics: Intro to Web Development'
 subheading: Learn more about web development and coding!
 mainpitch:
